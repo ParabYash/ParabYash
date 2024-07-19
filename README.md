@@ -10,7 +10,7 @@ I'm a passionate Data Scientist currently pursuing my master's in Data Science a
 ## 💼 Professional Experience
 ### Worked as Software Developer at Tata Consultancy Services (TCS)
 - Consultant at General Eelectric Vernova: Led automation sprint planning, developed and executed automation scripts using Robot Framework, Selenium, and Python. Ensured risk mitigation and defect management.
-### System Engineer at Exenture Global
+### Software Engineer at Exenture Global
 - Collaborated on system architecture design, project requirement gathering, and creating detailed product presentations.
 
 ## 🎓 Education
@@ -21,12 +21,12 @@ I'm a passionate Data Scientist currently pursuing my master's in Data Science a
 ### 🔍 What I've Worked On 
 - Data Analysis using SQL: Extracting meaningful insights from complex datasets.
 - Data Analysis and Visualization using Excel: Crafting compelling visual narratives from data.
-- SQL Database Projects: Developing robust systems like a comprehensive Police Records System.
+- SQL Database Projects: Analyzed global company layoffs data for 2022 using SQL and Python, cleaned and standardized the data, conducted exploratory data analysis to identify trends, and visualized findings for a comprehensive report.
 - R and Statistics Projects: Implementing statistical models to solve real-world problems.
 - Machine Learning Projects: Building predictive models and enhancing data-driven decision making.
 
 ### 🌟 Career Goals
-I aspire to become a leading Data Scientist, Data Analyst, or Machine Learning Engineer, leveraging data to drive innovation and impact.
+I aspire to become a leading Data Scientist and leveraging data to drive innovation and impact. I am also keen on various Machine Learning based research HMU on my socials.
 
 
 - 🌍  I'm based in United Kingdom
