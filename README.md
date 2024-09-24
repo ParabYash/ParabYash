@@ -8,9 +8,9 @@ I'm a passionate Data Scientist currently pursuing my master's in Data Science a
 
 # About Me
 ## 💼 Professional Experience
-### Worked as Software Developer at Tata Consultancy Services (TCS)
+### Software Engineer at Tata Consultancy Services (TCS)
 - Consultant at General Eelectric Vernova: Led automation sprint planning, developed and executed automation scripts using Robot Framework, Selenium, and Python. Ensured risk mitigation and defect management.
-### Software Engineer at Exenture Global
+### Data Analyst at Exenture Global
 - Collaborated on system architecture design, project requirement gathering, and creating detailed product presentations.
 
 ## 🎓 Education
