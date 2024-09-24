@@ -11,7 +11,7 @@ I'm a passionate Data Scientist currently pursuing my master's in Data Science a
 ### Software Engineer at Tata Consultancy Services (TCS)
 - Consultant at General Eelectric Vernova: Led automation sprint planning, developed and executed automation scripts using Robot Framework, Selenium, and Python. Ensured risk mitigation and defect management.
 ### Data Analyst at Exenture Global
-- Collaborated on system architecture design, project requirement gathering, and creating detailed product presentations.
+- Analyzed large datasets using Python and SQL, delivering insights that optimized marketing strategies and improved sales conversion by 10 percent. Developed interactive dashboards in Power BI for business performance tracking.
 
 ## 🎓 Education
 - Master's in Data Science | University of Nottingham
