@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and Machine Learning Enthusiast
 ----------------------------------------------
 
-I'm a passionate Data Scientist currently pursuing my master's in Data Science at the University of Nottingham. My journey in data science and software development has equipped me with a versatile skill set in data analysis, visualization, and machine learning. 
+I'm a passionate Data Scientist. My journey in data science and software development has equipped me with a versatile skill set in data analysis, visualization, and machine learning. 
 
 # About Me
 ## 💼 Professional Experience
-### Software Engineer at Tata Consultancy Services (TCS)
-- Consultant at General Eelectric Vernova: Led automation sprint planning, developed and executed automation scripts using Robot Framework, Selenium, and Python. Ensured risk mitigation and defect management.
+### Software Development Engineer at Tata Consultancy Services (TCS)
+- Consultant at General Eelectric Vernova: I contributed to projects aimed at enhancing operational efficiency and reducing downtime through data-driven solutions, leveraging my skills in data analysis, preprocessing, and visualization.
 ### Data Analyst at Exenture Global
-- Analyzed large datasets using Python and SQL, delivering insights that optimized marketing strategies and improved sales conversion by 10 percent. Developed interactive dashboards in Power BI for business performance tracking.
+- Analyzed large datasets leveraging Python and SQL, delivering insights that optimized marketing strategies and improved sales conversion by 10 percent. Developed interactive dashboards in Power BI for business performance tracking.
 
 ## 🎓 Education
 - Master's in Data Science | University of Nottingham
@@ -19,14 +19,14 @@ I'm a passionate Data Scientist currently pursuing my master's in Data Science a
 
 
 ### 🔍 What I've Worked On 
+- Natural Language Processing : Dealth with Big Data, creation of Dashboard, authored Research paper.
+- Advance machine learning Techniques: Utlized advance ML alogirthms for predictive modelling, achieving highest accuracy on complex dataset. 
 - Data Analysis using SQL: Extracting meaningful insights from complex datasets.
 - Data Analysis and Visualization using Excel: Crafting compelling visual narratives from data.
-- SQL Database Projects: Analyzed global company layoffs data for 2022 using SQL and Python, cleaned and standardized the data, conducted exploratory data analysis to identify trends, and visualized findings for a comprehensive report.
 - R and Statistics Projects: Implementing statistical models to solve real-world problems.
-- Machine Learning Projects: Building predictive models and enhancing data-driven decision making.
 
 ### 🌟 Career Goals
-I aspire to become a leading Data Scientist and leveraging data to drive innovation and impact. I am also keen on various Machine Learning based research HMU on my socials.
+I aspire to become a leading Data Scientist and leveraging data to drive innovation and impact. I am also keen on various Machine Learning based research, HMU on my socials.
 
 
 - 🌍  I'm based in United Kingdom
